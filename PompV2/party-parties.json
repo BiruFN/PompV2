@@ -1,0 +1,32 @@
+{
+    "id": "forestid",
+    "created_at": "9999-12-31T23:59:59.999Z",
+    "updated_at": "9999-12-31T23:59:59.999Z",
+    "config": {
+        "type": "DEFAULT",
+        "discoverability": "ALL",
+        "sub_type": "default",
+        "invite_ttl": 14400,
+        "intention_ttl": 60
+    },
+    "members": [{
+        "account_id": "forestid",
+        "meta": {},
+        "connections": [{
+            "id": "forestid",
+            "connected_at": "9999-12-31T23:59:59.999Z",
+            "updated_at": "9999-12-31T23:59:59.999Z",
+            "yield_leadership": false,
+            "meta": {}
+        }],
+        "revision": 0,
+        "updated_at": "9999-12-31T23:59:59.999Z",
+        "joined_at": "9999-12-31T23:59:59.999Z",
+        "role": "CAPTAIN"
+    }],
+    "applicants": [],
+    "meta": {},
+    "invites": [],
+    "revision": 0,
+    "intentions": []
+}
