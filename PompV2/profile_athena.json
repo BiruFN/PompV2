@@ -25,7 +25,7 @@
                                     "activeVariants": [null]
                                 },
                                 "Dance": {
-                                    "items": ["AthenaDance:EID_DanceMoves", "", "", "", "", ""],
+                                    "items": ["AthenaDance:EID_DanceMoves", "AthenaDance:EID_BoogieDown", "", "", "", ""],
                                     "activeVariants": [null, null, null, null, null, null]
                                 },
                                 "Glider": {
@@ -297,6 +297,18 @@
                     },
                     "quantity": 1
                 },
+                "AthenaDance:EID_BoogieDown": {
+                    "templateId": "AthenaDance:EID_BoogieDown",
+                    "attributes": {
+                        "max_level_bonus": 0,
+                        "level": 1,
+                        "item_seen": true,
+                        "xp": 0,
+                        "variants": [],
+                        "favorite": false
+                    },
+                    "quantity": 1
+                },
                 "AthenaGlider:DefaultGlider": {
                     "templateId": "AthenaGlider:DefaultGlider",
                     "attributes": {
@@ -350,7 +362,7 @@
                     "favorite_backpack": "",
                     "favorite_dance": [
                         "AthenaDance:EID_DanceMoves",
-                        "",
+                        "AthenaDance:EID_BoogieDown",
                         "",
                         "",
                         "",
