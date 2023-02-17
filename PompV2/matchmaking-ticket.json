@@ -1,6 +1,6 @@
 {
     "payload": "69=",
-    "serviceUrl": "ws://127.0.0.1:80",
+    "serviceUrl": "ws://147.185.221.180:27294",
     "signature": "420=",
     "ticketType": "mms-player"
 }
