@@ -43,5 +43,23 @@
         "_activeDate":"2018-08-06T19:00:26.217Z",
         "lastModified":"2023-01-17T20:56:06.655Z",
         "_locale": "en-US"
+    },
+    "dynamicbackgrounds": {
+        "jcr:isCheckedOut": true,
+        "backgrounds": {
+            "backgrounds": [{
+                "backgroundimage": "https://cdn.discordapp.com/attachments/1063089832357810217/1076030870852476928/llama-fortnite-4k-wallpaper-3840x2160-uhdpaper.com-612.0_a.jpg",
+                "stage": "defaultnotris",
+                "_type": "DynamicBackground",
+                 "key": "lobby"
+            }],
+            "_type": "DynamicBackgroundList"
+        },
+        "_title": "dynamicbackgrounds",
+        "_noIndex": false,
+        "jcr:baseVersion": "a7ca237317f1e70712af90-59fe-4576-8f32-f80bf513c946",
+        "_activeDate": "2020-07-06T06:00:00.000Z",
+        "lastModified": "2021-06-22T13:53:48.402Z",
+        "_locale": "en-US"
     }
 }
