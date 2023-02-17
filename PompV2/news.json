@@ -45,22 +45,21 @@
         "_locale": "en-US"
     },
     "dynamicbackgrounds": {
+        "jcr:isCheckedOut": true,
         "backgrounds": {
             "backgrounds": [{
-                "stage": "fortnitemares",
+                "backgroundimage": "https://media.discordapp.net/attachments/1063089832357810217/1076030612529487872/space-llama-fortnite-4981-hd-download-games-4981-preview.jpg",
+                "stage": "defaultnotris",
                 "_type": "DynamicBackground",
                 "key": "lobby"
-            },{
-                "stage": "fortnitemares",
-                "_type": "DynamicBackground",
-                "key": "vault"
             }],
             "_type": "DynamicBackgroundList"
         },
         "_title": "dynamicbackgrounds",
         "_noIndex": false,
-        "_activeDate": "2019-08-21T15:59:59.342Z",
-        "lastModified": "2019-10-29T13:07:27.936Z",
+        "jcr:baseVersion": "a7ca237317f1e70712af90-59fe-4576-8f32-f80bf513c946",
+        "_activeDate": "2020-07-06T06:00:00.000Z",
+        "lastModified": "2021-06-22T13:53:48.402Z",
         "_locale": "en-US"
     }
 }
