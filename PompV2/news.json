@@ -45,33 +45,22 @@
         "_locale": "en-US"
     },
     "dynamicbackgrounds": {
-    "backgrounds": {
-      "backgrounds": [
-        {
-          "stage": "fortnitemares",
-          "_type": "DynamicBackground",
-          "key": "lobby"
+        "backgrounds": {
+            "backgrounds": [{
+                "stage": "fortnitemares",
+                "_type": "DynamicBackground",
+                "key": "lobby"
+            },{
+                "stage": "fortnitemares",
+                "_type": "DynamicBackground",
+                "key": "vault"
+            }],
+            "_type": "DynamicBackgroundList"
         },
-        {
-          "stage": "fortnitemares",
-          "_type": "DynamicBackground",
-          "key": "vault"
-        }
-      ],
-      "_type": "DynamicBackgroundList"
-    },
-    "_title": "dynamicbackgrounds",
-    "_noIndex": false,
-    "_activeDate": "2019-08-21T15:59:59.342Z",
-    "lastModified": "2019-10-29T13:07:27.936Z",
-    "_locale": "en-US"
-  },
-    "lobby": {
-    "backgroundimage": "https://fortnite-public-service-prod11.ol.epicgames.com/images/seasonx.png",
-    "stage": "seasonx",
-    "_title": "lobby",
-    "_activeDate": "2019-05-31T21:24:39.892Z",
-    "lastModified": "2019-07-31T21:24:17.119Z",
-    "_locale": "en-US"
-  }
+        "_title": "dynamicbackgrounds",
+        "_noIndex": false,
+        "_activeDate": "2019-08-21T15:59:59.342Z",
+        "lastModified": "2019-10-29T13:07:27.936Z",
+        "_locale": "en-US"
+    }
 }
