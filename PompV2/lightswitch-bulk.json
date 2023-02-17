@@ -1,15 +1,12 @@
 [{
     "serviceInstanceId": "fortnite",
     "status": "UP",
-    "message": "fortnite is up.",
+    "message": "Fortnite is online",
     "maintenanceUri": null,
     "overrideCatalogIds": [
         "a7f138b2e51945ffbfdacc1af0541053"
     ],
-    "allowedActions": [
-        "PLAY",
-        "DOWNLOAD"
-    ],
+    "allowedActions": [],
     "banned": false,
     "launcherInfoDTO": {
         "appName": "Fortnite",
