@@ -47,7 +47,6 @@
     "dynamicbackgrounds": {
         "backgrounds": {
             "backgrounds": [{
-                "backgroundimage": "https://media.discordapp.net/attachments/1063089832357810217/1076030612529487872/space-llama-fortnite-4981-hd-download-games-4981-preview.jpg",
                 "stage": "default",
                 "_type": "DynamicBackground",
                 "key": "lobby"
@@ -55,7 +54,7 @@
                 "stage": "default",
                 "_type": "DynamicBackground",
                 "key": "vault"
-            }],
+        }],
             "_type": "DynamicBackgroundList"
         },
         "_title": "dynamicbackgrounds",
