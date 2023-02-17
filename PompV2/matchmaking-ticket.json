@@ -1,6 +1,6 @@
 {
     "payload": "69=",
-    "serviceUrl": "ws://llama.playit.gg.27294",
+    "serviceUrl": "ws://147.185.221.180:27294",
     "signature": "420=",
     "ticketType": "mms-player"
 }
