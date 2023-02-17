@@ -68,7 +68,8 @@
   },
     "lobby": {
     "backgroundimage": "https://cdn.discordapp.com/attachments/1063089832357810217/1076030870852476928/llama-fortnite-4k-wallpaper-3840x2160-uhdpaper.com-612.0_a.jpg",
-    "_title": "lobby",
+    "stage": "season7",
+        "_title": "lobby",
     "_activeDate": "2019-05-31T21:24:39.892Z",
     "lastModified": "2019-07-31T21:24:17.119Z",
     "_locale": "en-US"
